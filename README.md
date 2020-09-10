@@ -15,7 +15,7 @@ Home Page
 <br /> 
 <br /> 
 
-Results for a given address:
+Results for a given address
 
 <br /> 
 <br /> 
@@ -25,7 +25,7 @@ Results for a given address:
 <br /> 
 <br /> 
 
-Results based a current location:
+Results based a current location
 
 <br /> 
 <br /> 
