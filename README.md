@@ -5,12 +5,27 @@ A webpage that allows you to search for weather information using the Google Geo
 <br /> 
 <br /> 
 
+Home Page
+
+<br /> 
+<br /> 
+
 ![Screen Capture1](https://github.com/lakshmiathivarapu/WeatherSearch-PHP/blob/master/ScreenCapture1.PNG)
 
 <br /> 
 <br /> 
 
+Results for a given address:
+
+<br /> 
+<br /> 
+
 ![Screen Capture2](https://github.com/lakshmiathivarapu/WeatherSearch-PHP/blob/master/ScreenCapture2.PNG)
+
+<br /> 
+<br /> 
+
+Results based a current location:
 
 <br /> 
 <br /> 
